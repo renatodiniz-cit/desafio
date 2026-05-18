@@ -72,3 +72,5 @@ cypress.env.json                # Local-only credentials (should be gitignored)
 
 ![Evidence success register flow](./images/evidence-register.jpg)
 ![Evidence success shopping flow](./images/evidence-shopping.jpg)
+![Evidence success shopping flow](./images/evidence-login.jpg)
+![Evidence success shopping flow](./images/evidence-api.jpg)
