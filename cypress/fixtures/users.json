@@ -1,0 +1,13 @@
+{
+  "valid": {
+    "email": "test@test.com",
+    "name": "Fulano da Silva"
+  },
+  "invalid": {
+    "email": "invalido@qa.com"
+  },
+  "new": {
+    "name": "Cypress Test User",
+    "administrador": "false"
+  }
+}
