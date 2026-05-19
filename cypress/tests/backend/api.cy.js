@@ -1,5 +1,6 @@
 const apiUrl = Cypress.env('apiUrl')
 
+
 describe('ServeRest API', () => {
   context('POST /login', () => {
     it('should authenticate a valid user and return a Bearer token', () => {
